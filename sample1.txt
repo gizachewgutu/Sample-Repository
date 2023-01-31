@@ -1,1 +1,2 @@
-This the 2nd new repository created from schratch in local repository.The i am going to push to Remot repository github.
+This the 2nd new repository created from scratch in local computer.Then  push to Remot repository github.
+The second line edit for the seek of pull to local from local computer edited on github manually.
